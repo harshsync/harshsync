@@ -18,8 +18,5 @@
 📈 Competitive Programming:
 - Codeforces: 1250+ Rating
 
-🔗 LinkedIn:
-https://www.linkedin.com/in/harsh-kumar-619453307/
-
 💻 Codeforces:
 https://codeforces.com/profile/harsh1624
